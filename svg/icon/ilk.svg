@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.4 (67378) - http://www.bohemiancoding.com/sketch -->
+    <title>svg/icon/ilk</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#FFFFFF" stop-opacity="0.5" offset="0%"></stop>
+            <stop stop-color="#000000" stop-opacity="0.5" offset="100%"></stop>
+        </linearGradient>
+        <circle id="path-2" cx="16" cy="15" r="15"></circle>
+        <filter x="-5.8%" y="-4.2%" width="111.7%" height="111.7%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.199473505 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <filter x="-18.8%" y="-20.8%" width="137.5%" height="141.7%" filterUnits="objectBoundingBox" id="filter-4">
+            <feOffset dx="0" dy="0.5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.204257246 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="icon/ilk" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Oval">
+            <use fill="black" fill-opacity="1" filter="url(#filter-3)" xlink:href="#path-2"></use>
+            <use fill="#98C23A" fill-rule="evenodd" xlink:href="#path-2"></use>
+            <use fill="url(#linearGradient-1)" fill-rule="evenodd" style="mix-blend-mode: soft-light;" xlink:href="#path-2"></use>
+            <circle stroke-opacity="0.0970052083" stroke="#000000" stroke-width="1" stroke-linejoin="square" cx="16" cy="15" r="14.5"></circle>
+        </g>
+        <g id="XMLID_107_" filter="url(#filter-4)" transform="translate(6.000000, 6.000000)" fill="#FFFFFF">
+            <path d="M0.0685185185,7.54163265 L0.0685185185,1.77979592 C0.0685185185,0.701632653 0.592592593,0.161632653 1.64259259,0.161632653 L7.39814815,0.161632653 C8.47037037,0.161632653 9.00740741,0.701632653 9.00740741,1.77979592 L9.00740741,7.54163265 L6.35740741,7.54163265 L6.35740741,2.41897959 L2.72037037,2.41897959 L2.72037037,7.53979592 L0.0685185185,7.53979592 L0.0685185185,7.54163265 Z" id="XMLID_108_"></path>
+            <path d="M9.00740741,16.1393878 C9.00740741,17.2102041 8.47037037,17.7465306 7.39814815,17.7465306 L1.64444444,17.7465306 C0.594444444,17.7465306 0.0703703704,17.2102041 0.0703703704,16.1393878 L0.0703703704,9.23326531 L2.72222222,9.23326531 L6.35925926,9.23326531 L9.00925926,9.23326531 L9.00925926,16.1393878 L9.00740741,16.1393878 Z" id="XMLID_109_" fill-opacity="0.5"></path>
+            <path d="M10.8962963,9.32510204 L10.8962963,1.89734694 C10.8962963,0.819183673 11.4407407,0.279183673 12.5277778,0.279183673 L18.2537037,0.279183673 C19.3722222,0.279183673 19.9314815,0.819183673 19.9314815,1.89734694 L19.9314815,6.00979592 L17.1981481,6.00979592 L17.1981481,2.53836735 L13.6425926,2.53836735 L13.6425926,9.32510204 L10.8962963,9.32510204 Z" id="XMLID_110_" fill-opacity="0.5"></path>
+            <path d="M19.9314815,16.2312245 C19.9314815,17.3020408 19.3888889,17.8383673 18.3055556,17.8383673 L12.4888889,17.8383673 C11.4277778,17.8383673 10.8981481,17.3020408 10.8981481,16.2312245 L10.8981481,9.32510204 L13.5777778,9.32510204 L17.2537037,9.32510204 L19.9333333,9.32510204 L19.9333333,16.2312245 L19.9314815,16.2312245 Z" id="XMLID_111_"></path>
+        </g>
+    </g>
+</svg>

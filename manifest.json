@@ -40,6 +40,10 @@
 		"name": "Aeon"
 	},
 	{
+		"symbol": "AEUR",
+		"name": "Augmint EUR Token"
+	},
+	{
 		"symbol": "AGI",
 		"name": "SingularityNET"
 	},
@@ -714,6 +718,10 @@
 	{
 		"symbol": "IGNIS",
 		"name": "Ignis"
+	},
+	{
+		"symbol": "ILK",
+		"name": "Inlock Token"
 	},
 	{
 		"symbol": "INK",
